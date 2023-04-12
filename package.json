@@ -1,0 +1,16 @@
+{
+  "name": "rui",
+  "version": "1.0.0",
+  "description": "myTools",
+  "main": "index.js",
+  "author": "ruiruirui",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "@ant-design/icons-vue": "^6.1.0",
+    "animate.css": "^4.1.1",
+    "ant-design-vue": "^3.2.17",
+    "axios": "^1.3.5",
+    "lodash-es": "^4.17.21"
+  }
+}
